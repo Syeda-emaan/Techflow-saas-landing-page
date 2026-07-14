@@ -161,7 +161,7 @@ in your browser.
 Full Stack Developer
 
 GitHub:
-https://github.com/YourUsername
+https://github.com/Syeda-emaan
 
 LinkedIn:
 https://www.linkedin.com/in/syeda-emaan-fatima-b81794421?utm_source=share_via&utm_content=profile&utm_medium=member_android

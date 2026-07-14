@@ -164,7 +164,7 @@ GitHub:
 https://github.com/YourUsername
 
 LinkedIn:
-https://linkedin.com/in/YourUsername
+https://www.linkedin.com/in/syeda-emaan-fatima-b81794421?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
